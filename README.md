@@ -8,6 +8,7 @@ cd linuxsetup
 ```
 ### Run install
 ```
+chmod +x ./install.sh
 ./install.sh
 ```
 
