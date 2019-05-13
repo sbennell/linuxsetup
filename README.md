@@ -2,9 +2,9 @@
 ### Download and change folder
 ```
 cd ~
-git clone https://github.com/flipsidecreations/dotfiles.git
+git clone https://github.com/sbennell/linuxsetup.git
 
-cd dotfiles
+cd linuxsetup
 ```
 ### Run install
 ```
@@ -15,7 +15,7 @@ cd dotfiles
 
 ### Change to dotfiles folder
 ```
-cd ~/dotfiles
+cd ~/linuxsetup
 ```
 
 ### Run uninstaller
