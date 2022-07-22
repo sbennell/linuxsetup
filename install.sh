@@ -30,7 +30,7 @@ wget -qO - https://deb.volian.org/volian/scar.key | sudo tee /etc/apt/trusted.gp
 
 sudo apt update && sudo apt install nala
 
-alias apt='nala'
+alias apt='sudo nala'
 
 sudo apt update
 sudo apt -y autoremove
